@@ -10,6 +10,7 @@ const dialect = new PostgresDialect({
     user: process.env.DATABASE_USER as string,
     port: Number(process.env.DATABASE_PORT as string),
     max: 10,
+    ssl: true,
   }),
 });
 
