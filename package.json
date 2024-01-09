@@ -24,6 +24,7 @@
     "clsx": "^2.1.0",
     "kysely": "^0.27.2",
     "next": "14.0.4",
+    "next-auth": "beta",
     "pg": "^8.11.3",
     "prisma-kysely": "^1.7.1",
     "react": "^18",
